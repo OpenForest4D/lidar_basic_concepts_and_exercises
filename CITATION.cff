@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Katam"
+  given-names: "Madhumitha"
+- family-names: "Chelsea"
+  given-names: "Scott"
+  orcid: https://orcid.org/0000-0002-3884-4693
+title: "Lidar Point Clouds and Gridded Data for Forest Analysis"
+version: 1.0.0
+date-released: 2026-10-01
+url: "https://github.com/OpenForest4D/lidar_basic_concepts_and_exercises"
