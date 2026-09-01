@@ -106,7 +106,7 @@ Lesson and activity documents are provided as PDF as well as editable
 Word documents so you can customize and adapt them to your course.
 
 | Format | Use it for |
-| --- | --- | --- |
+| --- | --- | 
 | `.docx` | Editing in Microsoft Word - fully customizable | 
 | `.pdf` | Quick preview or a print/read-only version for students | 
 
