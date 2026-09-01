@@ -1,9 +1,9 @@
-# Lidar Point Clouds and Gridded Datasets for Forest Analysis
+# Lidar Point Clouds and Gridded Data for Forest Analysis
 
 > **Part of a two-repo lidar activity sequence.** These are **Activities
 > 1–2**. A follow-up activity on measuring individual trees is available
 > separately.
-> - [Activity 3: Measuring Tree Structure from a Lidar Point Cloud](https://github.com/openForest4D/lidar-applied-tree-measurements)
+> - [Activity 3: Measuring Tree Structure from a Lidar Point Cloud](https://github.com/OpenForest4D/lidar-applied-tree-measurements)
 
 This repository contains a set of hands-on activities that introduce
 lidar (Light Detection and Ranging), an active remote sensing method,
@@ -97,7 +97,7 @@ All instructions are provided in the lesson and activity documents.
    and complete the questionnaire at the end.
 4. Open [`activities/activity_2_create_gridded_data_from_point_clouds.docx`](activities/)
    and open the linked Colab notebook.
-5. In Colab, select **File -> Save a copy in Drive**. Edit that copy so
+5. Go to [`notebooks/Act1_Act2_combined.ipynb`](Act1_Act2_combined.ipynb) and Open in Colab link. In Google Colab, select **File -> Save a copy in Drive**. Edit that copy so
    you keep your own version of the work.
 
 ## Document formats
