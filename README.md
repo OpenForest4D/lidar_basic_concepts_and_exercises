@@ -97,7 +97,7 @@ All instructions are provided in the lesson and activity documents.
    and complete the questionnaire at the end.
 4. Open [`activities/activity_2_create_gridded_data_from_point_clouds.docx`](activities/)
    and open the linked Colab notebook.
-5. Go to [`notebooks/Act1_Act2_combined.ipynb`](Act1_Act2_combined.ipynb) and Open in Colab link. In Google Colab, select **File -> Save a copy in Drive**. Edit that copy so
+5. Go to [`notebooks/Act1_Act2_combined.ipynb`](notebooks/Act1_Act2_combined.ipynb) and Open in Colab link. In Google Colab, select **File -> Save a copy in Drive**. Edit that copy so
    you keep your own version of the work.
 
 ## Document formats
