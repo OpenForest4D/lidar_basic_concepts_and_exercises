@@ -3,7 +3,7 @@
 > **Part of a two-repo lidar activity sequence.** These are **Activities
 > 1–2**. A follow-up activity on measuring individual trees is available
 > separately.
-> - [Activity 3: Measuring Tree Structure from a Lidar Point Cloud](https://github.com/OpenForest4D/lidar-applied-tree-measurements)
+> - [Activity 3: Measuring Tree Structure from a Lidar Point Cloud](https://github.com/OpenForest4D/lidar_applied_tree_measurements)
 
 This repository contains a set of hands-on activities that introduce
 lidar (Light Detection and Ranging), an active remote sensing method,
@@ -105,16 +105,16 @@ All instructions are provided in the lesson and activity documents.
 Lesson and activity documents are provided as PDF as well as editable
 Word documents so you can customize and adapt them to your course.
 
-| Format | Use it for | Link |
+| Format | Use it for |
 | --- | --- | --- |
-| `.docx` | Editing in Word — the source files, fully customizable | [`lessons/`](lessons/), [`activities/`](activities/) |
-| `.pdf` | Quick preview or a print/read-only version for students | *[add PDF preview links]* |
+| `.docx` | Editing in Microsoft Word - fully customizable | 
+| `.pdf` | Quick preview or a print/read-only version for students | 
 
 Google docs links can also be made available upon request.
 
 ## Data
 
-The notebook expects a lidar point cloud file in the  `.laz` or `.las` format, downloadable
+The notebook expects a lidar point cloud file in the  `.laz` format, downloadable
 [here](https://zenodo.org/records/21517293).
 
 The laz file is also available in the `data` folder of this repository.
