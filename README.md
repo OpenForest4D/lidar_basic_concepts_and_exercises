@@ -1,10 +1,5 @@
 # Lidar Point Clouds and Gridded Data for Forest Analysis
 
-> **Part of a two-repo lidar activity sequence.** These are **Activities
-> 1–2**. A follow-up activity on measuring individual trees is available
-> separately.
-> - [Activity 3: Measuring Tree Structure from a Lidar Point Cloud](https://github.com/OpenForest4D/lidar_applied_tree_measurements)
-
 This repository contains a set of hands-on activities that introduce
 lidar (Light Detection and Ranging), an active remote sensing method,
 and its derivative raster products. Students first learn what lidar is 
@@ -140,6 +135,11 @@ lidar-basics-concepts-and-exercises/
 The lesson and activity documents are fully editable, allowing you to
 adapt them to your course needs. For an answer key to the in-activity
 and questionnaire questions, please contact [OpenForest4D](https://openforest4d.org/contact/).
+
+> **Part of a two-repo lidar activity sequence.** These are **Activities
+> 1–2**. A follow-up activity on measuring individual trees is available
+> separately.
+> - [Activity 3: Measuring Tree Structure from a Lidar Point Cloud](https://github.com/OpenForest4D/lidar_applied_tree_measurements)
 
 ## Acknowledgments
 
