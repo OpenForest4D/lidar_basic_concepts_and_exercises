@@ -45,7 +45,7 @@ sequence.
 
 Each numbered activity has two parts, and the folder names reflect that:
 
-- **[`Reading/`](lessons/)** - background reading for that activity,
+- **[`lessons/`](lessons/)** - background reading for that activity,
   ending with a short questionnaire to check understanding before moving
   on.
 - **[`activities/`](activities/)** - the hands-on worksheet, done after
