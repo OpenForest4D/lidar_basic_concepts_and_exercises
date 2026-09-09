@@ -1,17 +1,12 @@
 # Lidar Point Clouds and Gridded Data for Forest Analysis
 
-> **Part of a two-repo lidar activity sequence.** These are **Activities
-> 1–2**. A follow-up activity on measuring individual trees is available
-> separately.
-> - [Activity 3: Measuring Tree Structure from a Lidar Point Cloud](https://github.com/OpenForest4D/lidar_applied_tree_measurements)
-
-This repository contains a set of hands-on activities that introduce
+This repository contains hands-on activities that introduce
 lidar (Light Detection and Ranging), an active remote sensing method,
-and its derivative raster products. Students first learn what lidar is 
-and how to download it from a public data portal. They then
-process the lidar point cloud in R to build a digital elevation model
-(DEM), a digital surface model (DSM), a digital terrain model (DTM), and
-a canopy height model (CHM).
+and its derivative raster products. Students first learn about lidar  
+and how to download data from a public data portal. They then
+build a digital elevation model (DEM), a digital surface model (DSM), 
+a digital terrain model (DTM),and a canopy height model (CHM) in the 
+R programming language.
 
 Each activity follows a two-part sequence: a short lesson (background
 reading plus a brief questionnaire to check understanding) followed by a
@@ -23,8 +18,8 @@ minutes per hands-on activity - roughly 2 hours for the full
 two-activity sequence.
 
 **Learning goal:** By the end of this lab exercise, students will be able
-to locate and download airborne lidar data, and use it to derive and
-interpret gridded terrain and canopy datasets.
+to locate and download airborne lidar data, and use the data to derive and
+interpret gridded canopy and terrain datasets.
 
 **Objectives:**
 
@@ -40,17 +35,17 @@ interpret gridded terrain and canopy datasets.
 ## Audience
 
 This lab is designed for lower-level undergraduate students (**freshmen
-and sophomores**) and assumes no prior experience with lidar or
-programming in R. It fits courses in forest ecology, remote sensing, GIS,
+and sophomores**) and assumes no prior lidar knowledge or
+programming experience. It fits courses in forest ecology, remote sensing, GIS,
 natural resource management, and environmental science. Each activity is
 self-contained and can be assigned individually or run as a multi-part
 sequence.
 
-## How this is organized: lessons, then activities
+## Organization: Reading, questionnaire, activities
 
 Each numbered activity has two parts, and the folder names reflect that:
 
-- **[`lessons/`](lessons/)** - background reading for that activity,
+- **[`Reading/`](lessons/)** - background reading for that activity,
   ending with a short questionnaire to check understanding before moving
   on.
 - **[`activities/`](activities/)** - the hands-on worksheet, done after
@@ -58,12 +53,12 @@ Each numbered activity has two parts, and the folder names reflect that:
 
 We recommend working through `lessons/lesson_1...` before
 `activities/activity_1...`, and the same for Activity 2. The two parts of
-each activity can be split across two class sessions if your schedule
+each activity can be split across two class sessions if the schedule
 doesn't allow both in one sitting.
 
 **Lesson/Activity 1: Lidar remote sensing basics and getting lidar data**
 Students read an introduction to remote sensing and lidar, and complete
-a short questionnaire in the lesson. As part of the activity, they then
+a short questionnaire. As part of the activity, they then
 search the OpenTopography data facility for a lidar dataset, define an
 area of interest, and download the point cloud. Questions ask students
 to interpret dataset metadata such as acquisition date, point density,
@@ -106,11 +101,11 @@ Lesson and activity documents are provided as PDF as well as editable
 Word documents so you can customize and adapt them to your course.
 
 | Format | Use it for |
-| --- | --- | --- |
+| --- | --- | 
 | `.docx` | Editing in Microsoft Word - fully customizable | 
 | `.pdf` | Quick preview or a print/read-only version for students | 
 
-Google docs links can also be made available upon request.
+Google doc links can also be made available upon request.
 
 ## Data
 
@@ -140,6 +135,11 @@ lidar-basics-concepts-and-exercises/
 The lesson and activity documents are fully editable, allowing you to
 adapt them to your course needs. For an answer key to the in-activity
 and questionnaire questions, please contact [OpenForest4D](https://openforest4d.org/contact/).
+
+> **Part of a two-repo lidar activity sequence.** These are **Activities
+> 1–2**. A follow-up activity on measuring individual trees is available
+> separately.
+> - [Activity 3: Measuring Tree Structure from a Lidar Point Cloud](https://github.com/OpenForest4D/lidar_applied_tree_measurements)
 
 ## Acknowledgments
 
